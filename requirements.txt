@@ -1,0 +1,7 @@
+streamlit>=1.30.0
+streamlit-folium>=0.17.0
+folium>=0.15.0
+earthengine-api>=0.1.380
+pandas>=2.0.0
+plotly>=5.18.0
+google-auth>=2.23.0
